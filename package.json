@@ -1,0 +1,14 @@
+{
+  "name": "wssm",
+  "version": "0.0.0-dev",
+  "description": "WebSocket State Machine.",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Mike Rudolph <michaelrudolph@icloud.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikerudolph/wssm.git"
+  }
+}
